@@ -11,7 +11,7 @@ const ListNode = require('../extensions/list-node');
  *
  */
 
-/*class Queue {
+class Queue {
   constructor() {
     this.queue = [];
   }
@@ -31,4 +31,4 @@ const ListNode = require('../extensions/list-node');
   }
 }
 
-module.exports = Queue;*/
+module.exports = Queue;
